@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<themes>
+    <data 
+        Xml="https://raw.githubusercontent.com/ApptechCorporation/MyThemes/main/Xml/" 
+        Wall="https://raw.githubusercontent.com/ApptechCorporation/MyThemes/main/Wall/" 
+        Screen="https://raw.githubusercontent.com/ApptechCorporation/MyThemes/main/Screen/" />
+
+    <theme>
+        <title>Gato_Cintilante_e_Preto</title>
+        <date>Créditos AryTemas</date>
+    </theme>
+
+    <theme>
+        <title>Branca_de_Neve</title>
+        <date>Créditos AryTemas</date>
+    </theme>
+
+    <theme>
+        <title>Minnie_se_Maquiando</title>
+        <date>Créditos AryTemas</date>
+    </theme>
+
+    <theme>
+        <title>Docinho_Super_Poderosa</title>
+        <date>Créditos AryTemas</date>
+    </theme>
+
+    <theme>
+        <title>Cachorrinho_e_Gatinho_Cute</title>
+        <date>Créditos AryTemas</date>
+    </theme>
+
+    <theme>
+        <title>Cute_Dark_Bunny</title>
+        <date>Créditos AryTemas</date>
+    </theme>
+
+    <theme>
+        <title>Garota_cabelos_trançados</title>
+        <date>Créditos AryTemas</date>
+    </theme>
+
+    <theme>
+        <title>Barbie_Musa</title>
+        <date>Créditos AryTemas</date>
+    </theme>
+</themes>
