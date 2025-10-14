@@ -2,9 +2,9 @@
 
 <themes>
     <data 
-        Xml="https://raw.githubusercontent.com/MYMODS26/MyThemes/main/Xml/" 
-        Wall="https://raw.githubusercontent.com/MYMODS26/MyThemes/main/Wall/" 
-        Screen="https://raw.githubusercontent.com/MYMODS26/MyThemes/main/Screen/" />
+        Xml="https://raw.githubusercontent.com/ApptechCorporation/MyThemes/main/Xml/" 
+        Wall="https://raw.githubusercontent.com/ApptechCorporation/MyThemes/main/Wall/" 
+        Screen="https://raw.githubusercontent.com/ApptechCorporation/MyThemes/main/Screen/" />
 
     <theme>
         <title>Gato_Cintilante_e_Preto</title>
@@ -44,5 +44,10 @@
     <theme>
         <title>Barbie_Musa</title>
         <date>Créditos AryTemas</date>
+    </theme>
+    
+        <theme>
+        <title>hello_Kitty_vestidinho rosa_e_laço_Rosa</title>
+        <date>Créditos Carol</date>
     </theme>
 </themes>
