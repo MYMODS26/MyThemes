@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <themes>
-    <data 
-        Xml="https://raw.githubusercontent.com/MYMODS26/MyThemes/main/Xml/" 
-        Wall="https://raw.githubusercontent.com/MYMODS26/MyThemes/main/Wall/" 
-        Screen="https://raw.githubusercontent.com/MYMODS26/MyThemes/main/Screen/" />
+<data 
+    Xml="https://cdn.jsdelivr.net/gh/MYMODS26/MyThemes@main/Xml/" 
+    Wall="https://cdn.jsdelivr.net/gh/MYMODS26/MyThemes@main/Wall/" 
+    Screen="https://cdn.jsdelivr.net/gh/MYMODS26/MyThemes@main/Screen/" />
 
     <theme>
         <title>Gato_Cintilante_e_Preto</title>
