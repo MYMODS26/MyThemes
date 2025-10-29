@@ -1,6 +1,6 @@
 // /api/theme.js
 export default async function handler(req, res) {
-  const GITHUB_RAW_URL = "https://raw.githubusercontent.com/MYMODS26/MyThemes/refs/heads/main/MyThemes.xml";
+  const GITHUB_RAW_URL = "https://raw.githubusercontent.com/MYMODS26/MyThemes/main/MyThemes.xml";
 
   try {
     const response = await fetch(GITHUB_RAW_URL, {
